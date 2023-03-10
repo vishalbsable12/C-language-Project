@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1669833289 source:d:\c project\main project\main project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1669223511 source:d:\c project\main project\main project\createaccount.c
+
+1669223511 source:d:\project file\main project\main project\createaccount.c
+
+1678431589 source:d:\project file\main project\main project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
